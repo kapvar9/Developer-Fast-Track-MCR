@@ -105,9 +105,11 @@
         <img src="/Lab 3/images/image5.png" alt="image5">
         <br>
       </li>
- 
-      <h2>Recopilación de la información necesaria</h2>
-  
+    </ol>
+  </section>
+  <section>
+    <h2>Recopilación de la información necesaria</h2>
+    <ol type="1">
       <li>Selecciona el compartimiento recién creado para ver sus detalles </li>
       <br>
       <img src="/Lab 3/images/image6.png" alt="image6">
@@ -120,9 +122,10 @@
         <img src="/Lab 3/images/image7.png" alt="image7">
         <br>
       </li>
-  
-      <h2>Creación de una pila y un job</h2>
-    
+  </section>
+  <section>
+    <h2>Creación de una pila y un job</h2>
+    <ol type="1">
       <li>Accede al menú &#127828;, en Developer Services y clic en <b>Stacks</b>.  </li>
       <br>
       <img src="/Lab 3/images/image8.png" alt="image8">
@@ -132,61 +135,8 @@
         En <b>List Scope</b>, seleccina el compartimiento en el que quieres crear la pila. Para este ejercicio, usaremos el compartimiento <b>Workshop</b>
         <br>
         <br>
-        <img src="/Lab 3/images/image9.png" alt="image9">
+        <img src="/Lab 3/images/image7.png" alt="image7">
         <br>
       </li>
-      <br>
-      <li>
-        Descarga <a href="https://github.com/gustavogaspar/events-function/raw/main/terraform.zip">este archivo</a> en formato zip. Este contiene un código en Terraform que usaremos para el taller. No es necesario que los descomprimas.
-        <br>
-      </li>
-      <br>
-      <li>
-        Haz clic en <b>Create Stack</b>
-        <br>
-      </li>
-      <br>
-      <li>
-        Llena los campos con la siguiente información y luego, haz clic en <b>Next</b>
-        <br>
-        <br>
-        <ul>
-          <li>
-            Selecciona la opción de <b>My Configuration</b>
-          </li>
-          <li>
-            Sube el archivo <a href="https://github.com/gustavogaspar/events-function/raw/main/terraform.zip">terraform.zip</a> que descargamos en el paso anterior
-            <br>
-            <br>
-            <img src="/Lab 3/images/image10.png" alt="image10">
-            <br>
-          </li>
-        </ul>
-      </li>
-      <br>
-      <li>
-        Llena los campos con la información que guardaste en el paso 7 y luego, da clic en <b>Next</b>
-        <br>
-        <br>
-        <ul>
-          <li><b>Compartment_id: </b> Coloca el OCID de tu compartimiento Workshop</li>
-          <li><b>Compartment_name: </b> Coloca el nombre de tu compartimiento</li>
-          <li><b>Region_key: </b> Coloca la llave de la región en letras minúsculas. Si no sabes la llave, ingresa a este link &#128073; <a href="https://docs.oracle.com/en-us/iaas/Content/General/Concepts/regions.htm">Ver llaves regionales</a> </li>
-        </ul>
-        <br>
-        <img src="/Lab 3/images/image11.png" alt="image11">
-        <br>
-      </li>
-      
-      <li>
-        Selecciona la opción <b>Run Apply</b> y luego, da clic en <b>Create</b>
-        <br>
-        <br>
-        <img src="/Lab 3/images/image12.png" alt="image12">
-        <br>
-      </li>
-      <br>
-      <br>
-    </ol>
- 
+  </section>
 </body>
