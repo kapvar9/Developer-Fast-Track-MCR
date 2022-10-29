@@ -10,6 +10,7 @@
 </ul>
 
 <h2>Recopilando información necesaria</h2>
+
 <p>
     <h3>&#128161;Tips &#9729;</h3>
     <ul>
