@@ -52,17 +52,12 @@
     <img src="/Lab 3/images/image13.png" alt="img13">
     <br>
     <li>
-        <p>Seleccionamos la función para ver sus detalles y nos ubicamos en la sección <b>Getting Started</b></p>
-        <br>
-        <img src="/Lab 3/images/Screenshot_4.png" alt="img4">
-        <br>
-    </li>
-    <br>
-    <br>
-    <li>Selecciona la opción de <b>Configuración de Cloud Shell</b>
+        <p>Seleccionamos la función para ver sus detalles y nos ubicamos en la sección <b>Getting Started</b>. Selecciona la opción de <b>Configuración de Cloud Shell</p>
         <br>
         <img src="/Lab 3/images/Screenshot_5.png" alt="img5">
+        <br>
     </li>
+    <br>
     <br>
     <h3>&#128161;Tip &#9729;</h3>
     En este paso ejecutaremos algunos comandos. Te recomendamos tener un bloc de notas abierto con el que copies los
