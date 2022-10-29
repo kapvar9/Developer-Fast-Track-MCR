@@ -38,12 +38,13 @@
     </li>
 </ol>
     <br>
-<ol>
+
     <h2>Configurando ambiente de Cloud Shell</h2>
     <p>Para este lab, usaremos la función ya creada llamada <b>functionworkshop</b> que se encuentra dentro del compartimiento DevFT. Recuerda que la ruta es Developer Services &#10145; Functions &#10145; Applications &#10145; functionworkshop</p>
         <br>
         <img src="/Lab 3/images/image13.png" alt="img13">
-        <br>    
+        <br>
+<ol>        
     <li>
         <p>Seleccionamos la función para ver sus detalles y nos ubicamos en la sección <b>Getting Started</b></p>
         <br>
