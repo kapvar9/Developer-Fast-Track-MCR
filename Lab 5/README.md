@@ -15,8 +15,8 @@
 </ul>
 <h2>Recopilando información necesaria</h2>
 <ul>
-    <li>Acceder a tu cuenta de  <a href="https://www.oracle.com/cloud/sign-in.html">Oracle cloud &#127781;</a> y loggeate </li>
-    <li>Ejecutar el lab#1</li>
+    <li>Accede a tu cuenta de  <a href="https://www.oracle.com/cloud/sign-in.html">Oracle cloud &#127781;</a> y loggeate </li>
+    <li>Ejecutar el Lab#1</li>
 </ul>
 <h2>Paso 1: Activar el servicio de registro y habilitar la recopilación de registros</h2>
 <ol>
