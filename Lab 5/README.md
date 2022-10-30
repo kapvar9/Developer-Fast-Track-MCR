@@ -187,9 +187,9 @@
   <li>En la consola de <b>Log Explorer</b>, reemplace la consulta existente con la siguiente consulta para buscar las direcciones IP de origen que acceden a la VCN que configuramos y haga clic en el botón <b>Run</b>:
     <br>
     <br>
-    <textarea name="textarea" rows="1" cols="100" disabled>
+    <div>
       'Log Source' = 'OCI VCN Flow Unified Schema Logs' | stats count as logrecords by 'Source IP'
-    </textarea>
+    </div>
     <br>
     <img src="/Lab 5/images/Screenshot_59.png" alt="img59">
     <br>
