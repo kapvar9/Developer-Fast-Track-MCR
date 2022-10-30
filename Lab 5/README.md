@@ -2,7 +2,12 @@
 <p>
   Hola, en este laboratorio aprenderemos a registrar, monitorear y analizar los registros de la infraestructura informática de OCI que se aprovisionaron en los laboratorios anteriores utilizando <b>Oracle Cloud Observability and Management Platform</b>.
 </p>
-
+<style>
+.myDiv {
+  background-color: lightblue;    
+  text-align: center;
+}
+</style>
 <ul>
   <li>
     🌀<a href="https://www.oracle.com/es/manageability/">Página oficial de OCI Observability and Management Platform</a>   
@@ -187,7 +192,7 @@
   <li>En la consola de <b>Log Explorer</b>, reemplace la consulta existente con la siguiente consulta para buscar las direcciones IP de origen que acceden a la VCN que configuramos y haga clic en el botón <b>Run</b>:
     <br>
     <br>
-    <div>
+    <div class="myDiv">
       'Log Source' = 'OCI VCN Flow Unified Schema Logs' | stats count as logrecords by 'Source IP'
     </div>
     <br>
