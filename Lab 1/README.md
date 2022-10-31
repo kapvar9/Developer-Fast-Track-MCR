@@ -39,6 +39,9 @@ Como requisito previo, es una buena idea crear un compartimento aislado para pod
 ![](./Imágenes/IMG00_2.png)
 
 4. Introduzca un nombre para el compartimento y también una descripción. Una vez hecho esto, haga clic en **Crear compartimento**.
+Ejemplo:
+   Name: DevFT
+   Description: Compartment para labs Developer Fast Track
 
 ![](./Imágenes/IMG00_3.png)
 
