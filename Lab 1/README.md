@@ -53,7 +53,7 @@ Ejemplo:
 
 Como primer paso, debemos descargar el archivo (zip) desde el repositorio de github.
 
-1. Para hacer esto, vaya al [repositorio](https://github.com/CeInnovationTeam/terraform-dev-ft) y haga clic en **Descargar ZIP**.
+1. Para hacer esto, vaya al [repositorio](https://github.com/kapvar9/Terraform-Dev-FT-MCR) y haga clic en **Descargar ZIP**.
 
 ![](./Imágenes/IMG01.png)
 
