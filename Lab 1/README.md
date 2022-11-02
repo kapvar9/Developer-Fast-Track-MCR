@@ -55,7 +55,8 @@ Como primer paso, debemos descargar el archivo (zip) desde el repositorio de git
 
 1. Para hacer esto, vaya al [repositorio](https://github.com/kapvar9/Terraform-Dev-FT-MCR) y haga clic en **Descargar ZIP**.
 
-![](./Imágenes/IMG01.png)
+![](./Imágenes/IMG01_2.png)
+
 
 
 - - -
