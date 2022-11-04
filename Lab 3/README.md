@@ -12,5 +12,10 @@
     <li><a href="https://docs.oracle.com/en-us/iaas/Content/Streaming/Concepts/streamingoverview.htm">Documentación de Oracle Streaming</a></li>
 
 </ul>
+Accede a tus laboratorios de interés aquí 👇
+<ul>
+    <li><a href="https://github.com/kapvar9/Developer-Fast-Track-MCR/blob/main/Lab%203/Lab_3A_Funciones/README.md">Lab 3A - Funciones</a></li>
+    <li><a href="https://github.com/kapvar9/Developer-Fast-Track-MCR/blob/main/Lab%203/Lab_3B_Eventos/README.md">Lab 3B - Eventos</a></li>
+</ul>
 
 <img src="images/Arquitetura.png" alt="Arquitetura">
