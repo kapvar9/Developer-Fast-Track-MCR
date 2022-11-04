@@ -22,17 +22,17 @@ En este paso, creará un ambiente de desarrollo, con el servicio **OCI DevOps**,
 
  3. En el 🍔 menú de hamburguesas, vaya a: **Observability & Management** → **Application Performance** → **Administration**.
 
- ![](./Images/005-LAB4.png)
+ ![imagen](https://user-images.githubusercontent.com/59672915/200050273-107ca551-3079-4dcb-b6fb-fd79438e22ad.png)
 
  4. En la esquina inferior izquierda, debajo de Scope , valide que el Comparment creado en [Lab. #1](../Lab.%20%231%20-%20Resource%20Provisioning) está seleccionado.
 
  5. Seleccione el dominio APM de la lista.
    
- ![](./Images/007-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200050637-9431de5e-a19e-4830-833e-a83e771c2330.png)
 
  6. Copie la clave privada del dominio en un notepad.
 
- ![](./Images/008_1-LAB4.PNG)
+ ![imagen](https://user-images.githubusercontent.com/59672915/200050656-b1ec9df8-dbfe-43bf-8c82-df330569d370.png)
  
  ¡Eso es! ¡Hemos cumplido todos los requisitos previos para el laboratorio!
 
