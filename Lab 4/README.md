@@ -42,7 +42,7 @@ En este paso, creará un ambiente de desarrollo, con el servicio **OCI DevOps**,
 
  1. Acceda a **Cloud Shell** haciendo clic en el icono como en la imagen a continuación.
  
- ![](./Images/013-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200052850-05cec204-2e29-40fd-900a-dadcde72601e.png)
 
 
  2. Clona el repositorio del proyecto.
@@ -53,15 +53,15 @@ En este paso, creará un ambiente de desarrollo, con el servicio **OCI DevOps**,
 
  3. En el🍔menú de hamburguesas, vaya a: **Developer Services** → **DevOps** → **Projects**.
   
- ![](./Images/014-LAB4.png)
+ ![imagen](https://user-images.githubusercontent.com/59672915/200052882-ee579c58-a49d-4f16-9b7d-5d51672769b3.png)
 
  4. Acceda al proyecto enumerado (creado en el aprovisionamiento de Resource Manager😄).
   
- ![](./Images/015-LAB4.png)
+ ![imagen](https://user-images.githubusercontent.com/59672915/200052964-7cd3cc9e-8c9f-4191-97dc-e8ffea5111c2.png)
 
  5. En la página del proyecto, haz clic en **Create repository**.
 
- ![](./Images/016-LAB4.png)
+ ![imagen](https://user-images.githubusercontent.com/59672915/200053043-a23d0952-0b6d-4acd-9a52-d5b3078dfeed.png)
 
  6. Rellene el formulario de la siguiente manera:
 
@@ -69,14 +69,14 @@ En este paso, creará un ambiente de desarrollo, con el servicio **OCI DevOps**,
    - **Description:** (Definir cualquier descripción).
    - **Default branch:** main
 
- ![](./Images/017-LAB4.png)
+ ![imagen](https://user-images.githubusercontent.com/59672915/200053072-901e6a3d-f315-4260-8b5d-07f1b90b6807.png)
 
  7. En la página del repositorio recién creada, haga clic **HTTPS** y:
 
 - [1] Copie en el Bloc de notas la información del usuario que se usará para trabajar con git (**Usuário Git**).
 - [2] Copie el comando git clone y ejecútelo en Cloud Shell.
 
- ![](./Images/018-LAB4.png)
+ ![imagen](https://user-images.githubusercontent.com/59672915/200054412-0ac0422e-a949-40a6-b869-22cb01b3ec4e.png)
 
  8. En Cloud Shell, al ejecutar el comando, ingrese el **Usuario Git** recién copiado y su **Auth Token** como contraseña.
 
@@ -84,7 +84,7 @@ En este paso, creará un ambiente de desarrollo, con el servicio **OCI DevOps**,
  - BackendFTDev
  - ftRepo
  
- ![](./Images/019-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200054455-d257fb7e-7f53-4adb-8666-86e2fd7e514f.png)
 
  10. Ejecute los siguientes comandos para copiar el contenido del repositorio **BackendFTDev**, al repositorio **ftRepo**.
 
