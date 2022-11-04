@@ -20,11 +20,11 @@
     <li>Para este laboratorio es necesario que hayas ejecutado los laboratorios 1 y 2</li>
     <li>Tener a la mano los datos que recopilaste en el lab2</li>
 </ul>
-
 </p>
-<br>
+<h2>Configurando ambiente de Cloud Shell</h2>
+
 <ol>
-    <h2>Configurando ambiente de Cloud Shell</h2>
+    
     <p>Para este lab, usaremos la función ya creada llamada <b>functionworkshop</b> que se encuentra dentro del
         compartimiento DevFT. Recuerda que la ruta es Developer Services &#10145; Functions &#10145; Applications
         &#10145; functionworkshop</p>
