@@ -22,26 +22,6 @@
 </ul>
 
 </p>
-<h2>¿Cómo crear una función?</h2>
-<br>
-<ol>
-    <li>Abre el menú &#127828; y ve a la siguiente ruta: Developer Services &#10145; Functions &#10145; Applications
-        <br>
-        <br>
-        <img src="/Lab 3/images/Screenshot_1.png" alt="img1">
-    </li>
-    <br>
-    <li>Selecciona el compartimiento creado en el laboratorio 1 y haz clic en <b>Create application</b>
-        <br>
-        <img src="/Lab 3/images/Screenshot_2.png" alt="img2">
-    </li>
-    <br>
-    <li>Define un nombre para tu función, selecciona la VCN y la subnet indicadas en la imagen y por último, dale clic a
-        <b>Create</b>
-        <br>
-        <img src="/Lab 3/images/Screenshot_3.png" alt="img3">
-    </li>
-</ol>
 <br>
 <ol>
     <h2>Configurando ambiente de Cloud Shell</h2>
