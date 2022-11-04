@@ -14,13 +14,14 @@
 </ul>
 
 <h2>Recopilando información necesaria</h2>
-<p>
+
 <h3>&#128161;Tips &#9729;</h3>
 <ul>
     <li>Para este laboratorio es necesario que hayas ejecutado los laboratorios 1 y 2</li>
     <li>Tener a la mano los datos que recopilaste en el lab2</li>
 </ul>
-</p>
+
+
 <h2>Configurando ambiente de Cloud Shell</h2>
 
 <ol>
