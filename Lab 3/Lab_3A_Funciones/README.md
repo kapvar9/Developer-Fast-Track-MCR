@@ -14,26 +14,26 @@
 </ul>
 
 <h2>Recopilando información necesaria</h2>
-
+<p>
 <h3>&#128161;Tips &#9729;</h3>
 <ul>
     <li>Para este laboratorio es necesario que hayas ejecutado los laboratorios 1 y 2</li>
     <li>Tener a la mano los datos que recopilaste en el lab2</li>
 </ul>
 
-
+</p>
+<br>
 <h2>Configurando ambiente de Cloud Shell</h2>
-
+<p>Para este lab, usaremos la función ya creada llamada <b>functionworkshop</b> que se encuentra dentro del
+    compartimiento DevFT. Recuerda que la ruta es Developer Services &#10145; Functions &#10145; Applications
+    &#10145; functionworkshop</p>
+<br>
+<img src="/Lab 3/images/image13.png" alt="img13">
+<br>
 <ol>
-    
-    <p>Para este lab, usaremos la función ya creada llamada <b>functionworkshop</b> que se encuentra dentro del
-        compartimiento DevFT. Recuerda que la ruta es Developer Services &#10145; Functions &#10145; Applications
-        &#10145; functionworkshop</p>
-    <br>
-    <img src="/Lab 3/images/image13.png" alt="img13">
-    <br>
     <li>
-        <p>Seleccionamos la función para ver sus detalles y nos ubicamos en la sección <b>Getting Started</b>. Selecciona la opción de <b>Configuración de Cloud Shell</p>
+        <p>Seleccionamos la función para ver sus detalles y nos ubicamos en la sección <b>Getting Started</b>.
+            Selecciona la opción de <b>Configuración de Cloud Shell</p>
         <br>
         <img src="/Lab 3/images/Screenshot_5.png" alt="img5">
         <br>
@@ -95,8 +95,7 @@
         <br>
     </li>
     <br>
-    <li>Entra a la carpeta del proyecto &#10145; $ cd events-function
-    </li>
+    <li>Entra a la carpeta del proyecto &#10145; $ cd events-function</li>
     <br>
     <li>Copia el código del paso 10
         <br>
