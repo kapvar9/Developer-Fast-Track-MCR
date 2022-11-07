@@ -406,3 +406,8 @@ svc-java-app   LoadBalancer   10.96.16.229    <EXTERNAL-IP>   8081:32344/TCP   1
 ![](./Images/059-LAB4.png)
 
 ### 👏🏻 Felicidades!!! ¡Pudo construir con éxito un pipeline completo de DevOps en OCI!
+
+COMPLETASTE EXITOSAMENTE EL LABORATORIO N#4 !! 💯✅
+
+<a href="https://github.com/kapvar9/Developer-Fast-Track-MCR">Regresar</a>
+
