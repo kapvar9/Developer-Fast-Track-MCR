@@ -240,12 +240,12 @@ En este paso, creará un ambiente de desarrollo, con el servicio **OCI DevOps**,
 
 2. Espera el final del flujo.
         
-![](./Images/039-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200376178-eb687a02-b54c-4c50-a056-1f0ebfa96622.png)
 
  3. Vuelva a su proyecto DevOps haciendo clic en el🍔menú hamburguesa y accediendo a: **Developer Services**  → **Projects**.
  4. En la esquina izquierda, seleccione **Environments**.
          
-![](./Images/040-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200376204-93275ed5-6d2d-4bcf-bafd-d95d8ae79a6f.png)
 
  5. Haga clic en **Create New Environment**.
 
@@ -256,11 +256,11 @@ En este paso, creará un ambiente de desarrollo, con el servicio **OCI DevOps**,
 
  7. Seleccione el clúster de Kubernetes y haga clic en **Create Envrinoment**.
 
- ![](./Images/041-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200376242-a42e3423-aad6-4457-bf16-b402e8cddc1e.png)
 
  8. En la esquina izquierda, seleccione **Artifacts** y luego **Add Artifact**.
           
-![](./Images/042-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200376259-1df535d5-f3f9-4a20-b961-b446c86ae85c.png)
 
  9. Complete el formulario como se muestra a continuación y haga clic en **Add**.
  - **Name**: deployment.yaml
@@ -270,42 +270,42 @@ En este paso, creará un ambiente de desarrollo, con el servicio **OCI DevOps**,
  *No cambie la indentación (espacios) del documento, ya que esto puede romperlo .*.
  - **Replace parameters used in this artifact**: Yes, substitute placeholders
           
-![](./Images/043_0-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200376313-db6076e8-a92d-49cc-8549-aafe8e0d40fd.png)
 
  10. En la esquina izquierda, seleccione **Deployment Pipelines** y luego haga clic en **Create Pipeline**.
           
-![](./Images/044-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200376333-a2b5369d-f352-4b03-a435-205fc70c91f7.png)
 
  11. Complete el formulario como se muestra a continuación y haga clic en **Create pipeline**.
  - **Pipeline name**: deploy
  - **Description**: (Definir cualquier descripción).
           
-![](./Images/048-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200376353-4f9167d5-0596-43a5-a94c-f89cf9781a96.png)
 
  12. En la pestaña **Parameters** configure el siguiente parámetro:
  
  - REGISTRY_REGION: `<codigo-de-region>`.ocir.io  
           
-![](./Images/049-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200377348-847837df-a78c-4a1e-b4d6-2f842efa677e.png)
 
  13. Regrese a la pestaña **Pipeline** y haga clic en **Add Stage**.
           
-![](./Images/050-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200377374-8cf024f7-bd92-4def-8c72-be9b55349624.png)
 
  14. Seleccione la opción **Apply Manifest to your Kubernetes Cluster** y haga clic en **Next**.
           
-![](./Images/051-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200377400-6bbeef85-ca7f-402b-8f78-2873012a849d.png)
 
  15. Rellene el formulario de la siguiente manera:
  - **Name**: Deploy de aplicacion
  - **Description**: (establecer cualquier descripción).
  - **Environment**: OKE
 
-![](./Images/052_0-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200377646-f43e8052-c163-4c49-84d1-18be3e313245.png)
 
 16. Haz clic en **Select Artifact** y selecciona **deployment.yaml**.
 
-![](./Images/052_1-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200377684-be5fdcb9-1ba1-494c-b22a-bcd03119e5af.png)
 
 17. Una vez hecho esto, haga clic en **Add**.
  
