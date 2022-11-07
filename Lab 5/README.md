@@ -299,3 +299,7 @@
 <h1>
   Felicitaciones!👏🏻 👏🏻 👏🏻  Creaste con éxito tu primer dashboard! 🚀🚀
 </h1>
+
+COMPLETASTE EXITOSAMENTE EL LABORATORIO N#5 !! 💯✅
+
+<a href="https://github.com/kapvar9/Developer-Fast-Track-MCR">Regresar</a>
