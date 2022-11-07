@@ -18,7 +18,7 @@ En este paso, creará un ambiente de desarrollo, con el servicio **OCI DevOps**,
 
  1. [Inicie sesión](https://www.oracle.com/cloud/sign-in.html) en su cuenta OCI . 
 
- 2. Realizar los laboratorios [Lab. #1](../Lab.%20%231%20-%20Resource%20Provisioning) y [Lab #2](../Lab.%20%232%20-%20Developing%20Cloud%20Native%20Applications%20-%20Parte%201).
+ 2. Realizar los laboratorios [Lab. #1](https://github.com/kapvar9/Developer-Fast-Track-MCR/tree/main/Lab%201) y [Lab #2](https://github.com/kapvar9/Developer-Fast-Track-MCR/tree/main/Lab%202).
 
  3. En el 🍔 menú de hamburguesas, vaya a: **Observability & Management** → **Application Performance** → **Administration**.
 
