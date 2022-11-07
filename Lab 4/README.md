@@ -139,7 +139,7 @@ En este paso, creará un ambiente de desarrollo, con el servicio **OCI DevOps**,
 - **Base container image**: *no cambiar*.
 - **Build spec file path**: *no cambiar*.
       
-![](./Images/025-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200366262-62081f55-e640-4335-878d-9ca58e17f0c6.png)
 
 
 9. En Repositorio de código principal, haga clic en **Select**, seleccione las opciones a continuación y haga clic en **Save**. 
@@ -149,11 +149,12 @@ En este paso, creará un ambiente de desarrollo, con el servicio **OCI DevOps**,
 - **Select Branch**: *no cambiar*.
 - **Build source name**: java_root
     
-![imagen](https://user-images.githubusercontent.com/59672915/200366262-62081f55-e640-4335-878d-9ca58e17f0c6.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200366309-1f371a1e-3921-4f57-ac73-1021bf941361.png)
 
 - Una vez hecho esto, haga clic en **Add**.
 
-![imagen](https://user-images.githubusercontent.com/59672915/200366309-1f371a1e-3921-4f57-ac73-1021bf941361.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200367289-50b60b0a-b9fe-4ff8-9908-f92e217f5b12.png)
+
 
 🤔En este punto es importante entender cómo funciona la herramienta.📝.
     
@@ -167,19 +168,19 @@ En este paso, creará un ambiente de desarrollo, con el servicio **OCI DevOps**,
 
  1. En la pestaña Build Pipeline, haga clic en el signo **"+"**, debajo de la etapa de **creación de artefactos** y en **Add Stage**.
      
-![](./Images/027-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200367811-4786cbcc-dabc-4f6c-bf54-55a759599087.png)
 
 
  2. Seleccione la opción **Deliver Artifacts** y haga clic en **Next**.
      
-![](./Images/028-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200367843-ac7b3f0d-4e40-48c7-99e9-9c072c8340db.png)
 
 
  3. Complete el formulario como se muestra a continuación y haga clic en **Create artifact**.
  - **Stage name**: Entrega de artefactos
  - **Description**: (Definir cualquier descripción).
 
-![](./Images/029_0-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200368068-baed6a4a-7f14-475c-a61b-e271718cb866.png)
 
  4. En la opción de selección de artefactos, complete como se indica a continuación y haga clic en **Add**.
 - **Name**: backend_jar
@@ -190,7 +191,7 @@ En este paso, creará un ambiente de desarrollo, con el servicio **OCI DevOps**,
 - **Version**: ${BUILDRUN_HASH}
 - **Replace parameters used in this artifact**: Yes, substitute placeholders
        
-![](./Images/030-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200368117-85e05e35-9e6b-4e82-855b-db3b19143b7c.png)
 
 
 5. Rellene el campo restante de la tabla de **Build config/result artifact name** con "aplicación" y haga clic en **Add**.
