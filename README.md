@@ -6,7 +6,7 @@
     <li><a href="https://github.com/kapvar9/Developer-Fast-Track-MCR/tree/main/Lab%201">Lab. #1 - Resource Provisioning</a></li>
     <li><a href="https://github.com/kapvar9/Developer-Fast-Track-MCR/tree/main/Lab%202">Lab. #2 - Developing Cloud Native Applications - Parte 1</a></li>
     <li><a href="https://github.com/kapvar9/Developer-Fast-Track-MCR/tree/main/Lab%203">Lab. #3 - Developing Cloud Native Applications - Parte 2</a></li>
-    <li><a href="https://docs.oracle.com/en-us/iaas/Content/Events/Concepts/eventsoverview.htm">Lab. #4 - Automating Deployment</a></li>
+    <li><a href="https://github.com/kapvar9/Developer-Fast-Track-MCR/tree/main/Lab%204">Lab. #4 - Automating Deployment</a></li>
     <li><a href="https://github.com/kapvar9/Developer-Fast-Track-MCR/blob/main/Lab%205/README.md">Lab. #5 - Operating Cloud Native Applications</a></li>
 </ul>
 <p>¡Disfruta y consulta las certificaciones para Desarrolladores en OCI! 💻🚀</p>
