@@ -105,13 +105,13 @@ En este paso, creará un ambiente de desarrollo, con el servicio **OCI DevOps**,
  1. Vuelva a la página de inicio del proyecto DevOps.
  2. Haga clic en **Create build pipeline**. 
 
- ![](./Images/020-LAB4.png)
+ ![imagen](https://user-images.githubusercontent.com/59672915/200364914-285cbaec-cb7b-4094-86af-bd030d6eb7ab.png)
 
  3. Complete el formulario de la siguiente manera y haga clic en **Create**:
    - **Name**: build
    - **Description**: (Definir cualquier descripción).
 
- ![](./Images/021-LAB4.png)
+ ![imagen](https://user-images.githubusercontent.com/59672915/200364965-bdcac1bf-2c95-407f-92c9-ca102fa21b20.png)
 
  4. Abra el pipeline build recién creado.
  5. En la pestaña de parámetros, configure los siguientes parámetros:
@@ -121,15 +121,15 @@ En este paso, creará un ambiente de desarrollo, con el servicio **OCI DevOps**,
 
   **ATENCIÓN** - Al ingresar nombre, valor y descripción, haga clic en el signo "+" para guardar la información.
   
- ![](./Images/022-LAB4.png)
+ ![imagen](https://user-images.githubusercontent.com/59672915/200365834-40f70568-9bf2-4303-a7b1-1857f06ac143.png)
 
  6. Acceda a la pestaña **Build Pipeline** y haga clic en **Add Stage**.
 
- ![](./Images/023-LAB4.png)
+ ![imagen](https://user-images.githubusercontent.com/59672915/200365879-3e323305-0a94-40a9-b12e-aa6712c40e68.png)
 
  7. Seleccione la opción **Managed Build** y haga clic en **Next**.
 
- ![](./Images/024-LAB4.png)
+ ![imagen](https://user-images.githubusercontent.com/59672915/200365950-5b97c309-f757-4233-adec-d8303df9feaa.png)
 
  8. Rellene el formulario de la siguiente manera:
 
@@ -149,11 +149,11 @@ En este paso, creará un ambiente de desarrollo, con el servicio **OCI DevOps**,
 - **Select Branch**: *no cambiar*.
 - **Build source name**: java_root
     
-![](./Images/026-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200366262-62081f55-e640-4335-878d-9ca58e17f0c6.png)
 
 - Una vez hecho esto, haga clic en **Add**.
 
-![](./Images/025_1-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200366309-1f371a1e-3921-4f57-ac73-1021bf941361.png)
 
 🤔En este punto es importante entender cómo funciona la herramienta.📝.
     
