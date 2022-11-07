@@ -144,3 +144,7 @@
         <img src="/Lab 3/images/Screenshot_33.png" alt="img33">
     </li>
 </ol>
+
+COMPLETASTE EXITOSAMENTE EL LABORATORIO N#3.B !! 💯✅
+
+<a href="https://github.com/kapvar9/Developer-Fast-Track-MCR/tree/main/Lab%203">Regresar</a>
