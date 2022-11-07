@@ -196,35 +196,35 @@ En este paso, creará un ambiente de desarrollo, con el servicio **OCI DevOps**,
 
 5. Rellene el campo restante de la tabla de **Build config/result artifact name** con "aplicación" y haga clic en **Add**.
     
-![](./Images/029_1-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200370011-458dbfa9-a25b-4ebd-99d8-c2e840938ec6.png)
 
  6. En la pestaña Build Pipeline, haga clic en el signo **"+"** debajo de la etapa **Entrega de artefato** y haga clic en **Add Stage**.
 
- ![](./Images/031-LAB4.png)
+ ![imagen](https://user-images.githubusercontent.com/59672915/200370900-c759100b-f884-40b5-912b-a4d9471cbb2f.png)
 
  7. Nuevamente, haga clic en **Deliver Artifacts** y luego en **Next**.
 
- ![](./Images/028-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200370931-740d006d-2718-4c3a-a435-c6f61fdd62c8.png)
 
  8. Complete el formulario como se muestra a continuación y haga clic en **Create Artifact**.
  - **Stage name**: Entrega de imágenes de contenedores
  - **Description**: (Definir cualquier descripción).
 
- ![](./Images/033_0-LAB4.png)
+ ![imagen](https://user-images.githubusercontent.com/59672915/200370970-78a23f88-d069-48cd-81bb-cddd8f5e8891.png)
  
  9. En *Add artifact*, complete el formulario como se muestra a continuación y haga clic en **Add**.
 - **Name**: backend_img
 - **Type**: Container image repository
-- **Artifact Source**: `<código-de-região>.ocir.io/${IMG_PATH}`
+- **Artifact Source**: `<código-de-region>.ocir.io/${IMG_PATH}`
 - **Replace parameters used in this artifact**: Yes, substitute placeholders
    
 *Para Ashburn y Santiago, los códigos de región son respectivamente "iad" y "scl". Si se encuentra en otra región, utilice la [tabela de refêrencia](https://docs.oracle.com/en-us/iaas/Content/General/Concepts/regions.htm)*.
        
-![](./Images/032_0-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200371518-d2d89a34-bbd0-4c9e-8cd9-d9ffb9f5c4e8.png)
 
 9. Complete el campo restante de la tabla de **Build config/result artifact name** con: docker-img y haga clic en **Add**.
        
-![](./Images/033_1-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200371558-f03b26dc-7be4-4469-87ec-f24c261cad01.png)
 
 <a name="FinalPasso3"></a> ¡Esto completa la parte Build (CI) del proyecto! Hasta ahora, hemos automatizado la compilación del código Java, hemos creado la imagen del contenedor y la hemos almacenado en los repositorios de artefactos e imágenes del contenedor, respectivamente. ¡Ahora para la parte de implementación (CD)!
 
