@@ -316,7 +316,7 @@ En este paso, creará un ambiente de desarrollo, con el servicio **OCI DevOps**,
   1. Regrese al proyecto haciendo clic en el🍔menú de hamburguesas y yendo a: **Developer Services**  → **Projects**.
   2. En la esquina izquierda, seleccione **Triggers** y, a continuación, haga clic en **Create Trigger**.
 
-  ![](./Images/053-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200378541-35b7c908-5029-414d-af16-8121dbf900e0.png)
 
   3. Complete el formulario como se muestra a continuación y haga clic en **Create**.
   - **Name**: Inicio
@@ -328,21 +328,21 @@ En este paso, creará un ambiente de desarrollo, con el servicio **OCI DevOps**,
     - **Event**: Push (check) 
     - **Source branch**: main
 
-![](./Images/054-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200378751-620d84c8-ff53-43b0-b99c-47fb6bea9263.png)
 
 *A partir de ese momento, cualquier nuevo push realizado en el repositorio del proyecto iniciará el pipeline de build creada en este taller .*.
 
 4. Vuelva a la configuración de pipelines del proyecto seleccionando **Build Pipelines** → **build**.
 
-![](./Images/055-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200378757-26f5a601-bb3a-409b-b8df-f2a0511479f6.png)
 
   5. En la pestaña Build Pipeline, haga clic en el signo **"+"** debajo de la etapa **Entrega de Imagem de Container** y haga clic en **Add Stage**.
 
-![](./Images/056-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200379032-fd0a64f2-0e69-4036-b476-e8bc9801d0a4.png)
 
 6. Seleccione el elemento **Trigger Deployment** y haga clic en **Next**.
 
-![](./Images/057-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200379062-bb323175-51f5-4ad5-8bf9-cf2e0eaae6e8.png)
 
 7. Complete el formulario como se muestra a continuación y haga clic en **Add**.
 - **Nome**: Inicio de Deployment
@@ -351,7 +351,7 @@ En este paso, creará un ambiente de desarrollo, con el servicio **OCI DevOps**,
 
 *Mantenga los otros campos sin cambios*.
 
-![](./Images/058-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200379111-6f26c87a-33f2-4f86-bf6d-14723687492c.png)
 
 Enhorabuena por llegar hasta aquí!! ¡Nuestro pipeline está listo! En el siguiente paso validaremos el proyecto, comprobando si todo está bien.
 
@@ -359,11 +359,11 @@ Enhorabuena por llegar hasta aquí!! ¡Nuestro pipeline está listo! En el sigui
   1.  Regrese al proyecto haciendo clic en el🍔menú de hamburguesas y yendo a: **Developer Services**  → **Projects**.
   2.  Vuelva a la configuración de pipelines del proyecto seleccionando **Build Pipelines** → **build**.
   
-  ![](./Images/055-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200379136-08f42d4c-141d-470a-af2e-b2fbbeabc197.png)
 
   3. En la esquina superior derecha, seleccione **Start Manual Run**.
 
-![](./Images/055_1-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200379172-7ac174a9-d42d-4b41-9e60-964bfeaa8746.png)
 
   4. Mantenga la información del formulario predeterminado y haga clic en **Start Manual Run**.
   5. Espere a que se ejecute el flujo.
@@ -404,7 +404,7 @@ svc-java-app   LoadBalancer   10.96.16.229    <EXTERNAL-IP>   8081:32344/TCP   1
 ```
 - ¡Debería ver la suma de los precios de los productos como respuesta! ¡Prueba a modificar los valores para comprobar la suma!
 
-![](./Images/059-LAB4.png)
+![imagen](https://user-images.githubusercontent.com/59672915/200379201-672f918a-5225-4d97-ae50-c9390c562d97.png)
 
 ### 👏🏻 Felicidades!!! ¡Pudo construir con éxito un pipeline completo de DevOps en OCI!
 
