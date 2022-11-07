@@ -24,7 +24,7 @@ En este paso, creará un ambiente de desarrollo, con el servicio **OCI DevOps**,
 
  ![imagen](https://user-images.githubusercontent.com/59672915/200050273-107ca551-3079-4dcb-b6fb-fd79438e22ad.png)
 
- 4. En la esquina inferior izquierda, debajo de Scope , valide que el Comparment creado en [Lab. #1](../Lab.%20%231%20-%20Resource%20Provisioning) está seleccionado.
+ 4. En la esquina inferior izquierda, debajo de Scope , valide que el Comparment creado en [Lab. #1](https://github.com/kapvar9/Developer-Fast-Track-MCR/tree/main/Lab%201) está seleccionado.
 
  5. Seleccione el dominio APM de la lista.
    
