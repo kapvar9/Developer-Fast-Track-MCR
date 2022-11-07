@@ -100,7 +100,7 @@ Como primer paso, debemos descargar el archivo (zip) desde el repositorio de git
 
 COMPLETASTE EXITOSAMENTE EL LABORATORIO N#1 !! 💯✅
 
-<a href="https://github.com/kapvar9/Developer-Fast-Track-MCR/tree/main/Lab%201">Regresar</a>
+<a href="https://github.com/kapvar9/Developer-Fast-Track-MCR">Regresar</a>
 
 
 
