@@ -1,6 +1,6 @@
 # Lab. #6 - Monitoreo con APM en OCI
 
-En este paso, creará un ambiente de desarrollo, con el servicio **OCI DevOps**, que automatizará la entrega de una aplicación en contenedores a un clúster de Kubernetes.
+En este paso, creará un ambiente de desarrollo, con el servicio **APM**, que permitira la visualizacion de diferentes metricas sobre nuestras aplicaciones
 
  ## <a name="Paso1"></a> Paso 1: Aprendiendo sobre APM
 
