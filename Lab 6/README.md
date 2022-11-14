@@ -48,3 +48,69 @@ En este paso, creará un ambiente de desarrollo, con el servicio **APM**, que pe
 
 ![imagen](https://user-images.githubusercontent.com/59672915/201536667-d7e42350-509d-48fb-8589-04ef14cdf87e.png)
 
+12. Desde este tablero podemos seleccionar distintas querys para consultar la informacion y se nos mostrará cada status disponible
+
+![imagen](https://user-images.githubusercontent.com/59672915/201537396-9729a9c1-742e-4133-a070-78dd2f508f78.png)
+
+13. Tambien podemos ver de manera especifica cada trace y asi tener mas detalles 
+
+![imagen](https://user-images.githubusercontent.com/59672915/201659291-ba968e3b-7d84-404c-b0b0-f2591f01dee5.png)
+
+14. Este seria el tablero de detalles, pero incluso si en **Spans** hacemos click, podremos acceder a otro listado con mayor información
+
+![imagen](https://user-images.githubusercontent.com/59672915/201659926-763b0cd8-9f28-4782-8193-e627922a54b0.png)
+
+15. Esta información tambien puede contener logs 
+
+![imagen](https://user-images.githubusercontent.com/59672915/201660034-870528e7-38e9-46b8-bc57-2d476cefc723.png)
+
+ 16. Podemos volver al **Home** haciendo click en la barra lateral izquierda
+ 
+ ![imagen](https://user-images.githubusercontent.com/59672915/201660410-24bd9183-7545-44bd-acf3-93de041179b5.png)
+ 
+ 17. Ahora veremos el funcionamiento y funcionalidades de los **Monitors**
+
+![imagen](https://user-images.githubusercontent.com/59672915/201664091-c375aa0f-fb40-4ccd-9ea7-3a9211c22233.png)
+
+18. Una vez hecho click en el monitor llegaremos a esta pagina donde tendremos la informacion de nuestro monitor y tambien podremos ver informacion historica de nuestro monitor
+
+![imagen](https://user-images.githubusercontent.com/59672915/201667752-dbfd5957-f65d-4404-8292-e2f9cb054537.png)
+
+![imagen](https://user-images.githubusercontent.com/59672915/201667654-0e6259bb-dfe4-4b45-a811-2a77f2ab7386.png)
+
+19. Adicionalmente si hacemos click en los tres puntos al lado derecho de cualquier **History** tenemos varias opciones a nuestra disposicion para descargar informacion
+
+![imagen](https://user-images.githubusercontent.com/59672915/201668062-a4282ac3-2dbb-4d7b-9837-5314df0e37a4.png)
+
+20. Podemos ver screenshots de nuestra app, descargarlas y tambien descargar los logs que esten registrados en nuestro monitor 
+
+![imagen](https://user-images.githubusercontent.com/59672915/201670902-6687417a-34f4-4a41-803b-41af49517b8d.png)
+
+21. Si quisieramos crear nuestro monitor tendriamos que hacer click aquí 
+
+![imagen](https://user-images.githubusercontent.com/59672915/201672803-aa129606-b06d-46fe-a684-e15d9f336164.png)
+
+22. Hacer click en **Create Monitor** tal como en la imagen 
+
+![imagen](https://user-images.githubusercontent.com/59672915/201672985-9922ab0c-05cd-45cb-9690-c186ae723e3c.png)
+
+23. Los monitores pueden ser de diversos tipos, como los detallados aqui en la imagen
+
+![imagen](https://user-images.githubusercontent.com/59672915/201673151-607220fd-dd43-461b-8d39-707b37fed022.png)
+
+24. Cada uno de ellos tiene un formulario el cual podremos llenar con lo que necesitemos, como el nombre o la URL
+
+![imagen](https://user-images.githubusercontent.com/59672915/201673338-1545a6e6-94bd-4329-841a-52d36d7346a2.png)
+
+
+Y con eso terminamos el Lab#6 Esperamos que te hayan parecido interesante las funcionalidades de APM en Oracle Cloud
+
+
+
+
+
+
+
+
+
+
